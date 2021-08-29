@@ -1,0 +1,15 @@
+//
+//  Base.xcconfig
+//  Posts
+//
+//  Created by Tiago Henriques on 29/08/2021.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME = Posts
+
+BASE_BUNDLE_IDENTIFIER = com.tiago.henriques.Posts
+
+PRODUCT_BUNDLE_IDENTIFIER = $(BASE_BUNDLE_IDENTIFIER)

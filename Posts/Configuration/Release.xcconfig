@@ -1,0 +1,15 @@
+//
+//  Release.xcconfig
+//  Posts
+//
+//  Created by Tiago Henriques on 29/08/2021.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "Base.xcconfig"
+
+API_BASE_URL = tiagohenriques.vercel.app
+
+ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon
